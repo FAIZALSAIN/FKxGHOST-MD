@@ -117,15 +117,15 @@ const Crypto = require('crypto');
 const path = require('path');
 const prefix = config.PREFIX;
 
-const ownerNumber = ['923443679346'];
+const ownerNumber = ['923266105873'];
 
 // ==================== CUSTOM WELCOME MESSAGE ====================
 const WELCOME_CAPTION = `
 *╭ׂ┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣─̇─̣─᛭*
-*│ ╌─̇─̣⊰ 𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃🪄🎀 ⊱┈─̇─̣╌*
+*│ ╌─̇─̣⊰ 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃🪄🎀 ⊱┈─̇─̣╌*
 *│─̇─̣┄┄┄┄┄┄┄┄┄┄┄┄┄─̇─̣*
 *│❀ ✅ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝:*𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭✅
-*│❀ 👑 𝐎𝐰𝐧𝐞𝐫:* FK HACKER🪄🎀
+*│❀ 👑 𝐎𝐰𝐧𝐞𝐫:* 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃🪄🎀
 *│❀ 🤖 𝐁𝐚𝐢𝐥𝐞𝐲𝐬:* 𝐌𝐮𝐥𝐭𝐢 𝐃𝐞𝐯𝐢𝐜𝐞
 *│❀ 🚀 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦:* 𝐇𝐄𝐑𝐊𝐎
 *│❀ ⚙️ 𝐌𝐨𝐝𝐞:* 𝐏𝐮𝐛𝐥𝐢𝐜
@@ -133,10 +133,10 @@ const WELCOME_CAPTION = `
 *│❀ 🏷️ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧:* 5.0.0
 *╰┄─̣┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣─̇─̣─᛭*
 
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ FK HACKER 🤍
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃 🤍
 `;
 
-const NEWSLETTER_JID = '0029VbBOcrNBadmXo2Nqfg2Y@newsletter';
+const NEWSLETTER_JID = '120363425143124298@newsletter';
 
 const tempDir = path.join(os.tmpdir(), 'cache-temp');
 if (!fs.existsSync(tempDir)) {
@@ -357,7 +357,7 @@ async function connectToWA() {
             setTimeout(() => {
                 // Send to bot number with image
                 conn.sendMessage(conn.user.id, { 
-                    image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/8c4lpm.jpg' }, 
+                    image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/ejufwa.jpg' }, 
                     caption: WELCOME_CAPTION,
                     contextInfo: {
                         mentionedJid: [conn.user.id],
@@ -365,22 +365,22 @@ async function connectToWA() {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: NEWSLETTER_JID,
-                            newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃🪄🎀',
+                            newsletterName: '𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃🪄🎀',
                             serverMessageId: 143
                         }
                     }
                 }).catch(err => console.error("Welcome message error:", err.message));
                 
                 // Also send to owner
-                conn.sendMessage('923443679346@s.whatsapp.net', {
-                    image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/8c4lpm.jpg' },
+                conn.sendMessage('923408576674@s.whatsapp.net', {
+                    image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/ejufwa.jpg' },
                     text: WELCOME_CAPTION,
                     contextInfo: {
                         forwardingScore: 999,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: NEWSLETTER_JID,
-                            newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃🪄🎀',
+                            newsletterName: '𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃🪄🎀',
                             serverMessageId: 143
                         }
                     }
@@ -501,10 +501,10 @@ async function connectToWA() {
             };
             
             const udp = botNumber.split(`@`)[0];
-            const fk = ['923443679346','923443679346'];
+            const faizan = ['923266105873','923266105873'];
             const dev = [];
             
-            let isCreator = [udp, ...fk, ...dev]
+            let isCreator = [udp, ...faizan, ...dev]
                 .map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net')
                 .includes(sender);
             
@@ -537,7 +537,7 @@ async function connectToWA() {
                 }
             }
             
-            if (config.AUTO_REACT === 'true' && senderNumber.includes("923443679346") && !isReact) {
+            if (config.AUTO_REACT === 'true' && senderNumber.includes("923076411099") && !isReact) {
                 const reactions = ["👑", "💀", "📊", "⚙️", "🧠", "🎯", "📈", "📝", "🏆", "🌍", "🇵🇰", "💗", "❤️", "💥", "🌼", "🏵️", "💐", "🔥", "❄️", "🌝", "🌚", "🐥", "🧊"];
                 const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
                 m.react(randomReaction);
@@ -819,7 +819,7 @@ async function connectToWA() {
 }
 
 app.get("/", (req, res) => {
-    res.send("𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃⁸⁷³ STARTED ✅");
+    res.send("FAIZAN-MD⁸⁷³ STARTED ✅");
 });
 
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
