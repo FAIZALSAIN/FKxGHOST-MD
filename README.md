@@ -1,20 +1,5 @@
 <!-- ANIMATED FLOATING HEADER -->
-<div align="center">
- 
-<!-- GLOWING DIVIDER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF99&background=000000&center=true&vCenter=true&width=800&height=50&lines=👻+WELCOME+TO+FKxGHOST-BOT+👻" alt="Animated Header">
-</div>
--------
-[![FKxGHOST](https://raw.githubusercontent.com/FKxGHOST-MD/FKxGHOST-Bot/main/assets/ghost.svg)](https://whatsapp.com/channel/0029VbBOcrNBadmXo2Nqfg2Y)
--------------
-<!-- GLOWING ROTATING BADGES -->
-<div align="center">
-[![Version](https://img.shields.io/badge/🔥_VERSION_5.0_-00FF99?style=for-the-badge&logo=ghost&logoColor=white&labelColor=000000)](https://github.com/FKxGHOST-MD/FKxGHOST-Bot)
-[![WhatsApp](https://img.shields.io/badge/💀_WHATSAPP_MD_BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://api.whatsapp.com/send?phone=923443679346&text=FAMOUS-FK-SAIN-SAVE-DONE°³*)
-[![NodeJS](https://img.shields.io/badge/🟢_NODE.JS_20.x_-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)](https://nodejs.org/)
-[![Status](https://img.shields.io/badge/✅_STATUS_ONLINE-00FF99?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)](https://github.com/FKxGHOST-MD/FKxGHOST-Bot)
-</div>
-------
+<div align="center
 <!-- ANIMATED DEVELOPER CARD -->
 <div align="center">
   <h2 style="color: #00FF99; text-shadow: 0 0 10px #00FF99;">👻 DEVELOPER</h2>
