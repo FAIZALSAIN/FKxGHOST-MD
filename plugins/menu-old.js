@@ -55,7 +55,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
@@ -135,7 +135,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: "𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃",
                         serverMessageId: 143
                     }
@@ -201,7 +201,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 144
                     }
@@ -284,7 +284,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
@@ -362,7 +362,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
@@ -429,7 +429,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
@@ -500,7 +500,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
@@ -552,7 +552,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
@@ -611,7 +611,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
@@ -672,7 +672,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
@@ -741,7 +741,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
@@ -800,7 +800,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                        newsletterJid: '120363422320301173@newsletter',
                         newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                         serverMessageId: 143
                     }
