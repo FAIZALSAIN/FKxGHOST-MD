@@ -5,7 +5,7 @@
   <h2 style="color: #00FF99; text-shadow: 0 0 10px #00FF99;">👻 DEVELOPER</h2>
  
   <!-- TYPING ANIMATION -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF00AA&background=000000&center=true&vCenter=true&width=500&lines=FKxGHOST+MD+Official;Bot+Creator;WhatsApp+Ghost+Expert" alt="Developer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF00AA&background=000000&center=true&vCenter=true&width=500&lines=FKxGHOST+MD+Official;Bot+Creator;WhatsApp+BOT EXPART" alt="Developer Animation">
  
   <br><br>
   <a href="https://api.whatsapp.com/send?phone=923443679346&text=FAMOUS-FK-SAIN-SAVE-DONE°³*">
