@@ -53,7 +53,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFF00&background=000000&center=true&vCenter=true&width=600&height=40&lines=⚠️+Add+creds.json+file+in+session+folder+⚠️" alt="Important Notice">
  
   <br><br>
-  <a href="https://arslan-md-pair-site.onrender.com/"> <!-- Keep if same pair site, or replace with your own -->
+  <a href="https://faizan-md-rndr.onrender.com//"> <!-- Keep if same pair site, or replace with your own -->
     <img src="https://img.shields.io/badge/🔑_GET_PAIR_CODE_SESSION-FF00AA?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="300"/>
   </a>
 </div>
